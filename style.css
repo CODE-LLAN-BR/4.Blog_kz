@@ -1,0 +1,129 @@
+header{
+    text-align: center;
+    margin-top: 30px;
+}
+body{
+    /*background: rgb(19,4,231);
+    background: linear-gradient(223deg, rgba(19,4,231,1) 0%, rgba(14,189,199,1) 47%, rgba(46,0,255,1) 100%);
+    color: black*/
+    background: rgb(0,0,0);
+    background: linear-gradient(270deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 57%, rgba(80,80,80,1) 100%);
+    color:  yellow;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    
+}
+main{
+ margin: 15px ;
+    
+}
+
+section{
+    margin-top: 80px;
+
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 120px;
+    margin-top: 120px;
+    margin-right: 1000px auto;
+    border-radius: 50px;
+    font-family: 'Notable', sans-serif;
+    color: white
+
+}
+
+.h1-2{
+    font-size: 200px;
+    font-weight: 800px;
+    padding: 30px;
+    margin-left: 30px;
+    border-radius: 200px;
+    color: yellow
+
+
+}
+
+.text-1{
+    margin: 15px ;
+    font-size: 20px;
+    margin-right: 300px;
+}
+
+.title-1{
+    margin:20px ;
+    font-size: 30px;
+    margin-top: 50px;
+    padding: 10px;
+    margin-right: 300px;
+    background-color:rgba(245, 245, 245, 0.034);
+    border-bottom: 1px solid yellow;
+    border-radius: 15px;
+
+}
+
+.description-1{
+    background-color: rgba(255, 255, 255, 0.349);
+    padding: 4px;
+
+
+}
+
+.link-1{
+    margin: 250px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: yellow;
+    border: 1px solid yellow;
+
+}
+
+.link-1:hover{
+    background-color: yellow;
+    color: black;
+    
+}
+
+.img-box{
+
+    margin-left: 50px;
+    margin-bottom: 20px;
+
+
+}
+
+.text-2{
+    margin: 20px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-weight: 300px;
+}
+
+.newsletter{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.newsletter_1{
+    background-color: rgb(240, 241, 165);
+    padding: 15px;
+    margin: 10px;
+}
+
+.newsletter_2{
+    background-color: black;
+    color: yellow;
+    border: 1px solid yellow;
+    padding: 15px;
+    
+
+}
+.newsletter_2:hover{
+    background-color: yellow;
+    color: black;
+
+}
+    
