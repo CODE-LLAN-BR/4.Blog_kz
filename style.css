@@ -5,7 +5,7 @@ header{
 
 body{
     max-height: 100ah;
-    max-width: 0 auto;
+    max-width: 600px;
     background: rgb(10,10,10);
     background: linear-gradient(90deg, rgba(10,10,10,1) 0%, rgba(53,30,224,1) 23%, rgba(0,14,255,1) 80%, rgba(23,23,23,1) 100%);
     color:white;
